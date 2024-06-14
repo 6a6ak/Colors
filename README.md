@@ -26,8 +26,8 @@ These instructions will help you get a copy of the project up and running on you
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/your-username/color-tricks.git
-   cd color-tricks
+   git clone https://github.com/6a6ak/Colors.git
+ 
 
 CREATE DATABASE color_db;
 
@@ -83,9 +83,9 @@ Start the server
 
 Make sure your Apache server is running and serving the project directory.
 
-Access the application
+Online 
 
-Open your browser and navigate to http://localhost/color-tricks (or your configured local domain).
+Open your browser and navigate to https://color.tricks.se
 
 Register a new user
 
@@ -97,8 +97,8 @@ Add new color packs.
 View your existing color packs.
 Edit or delete color packs as needed.
 Directory Structure
-css
-Copy code
+<pre>
+   
 color-tricks/
 ├── .htaccess
 ├── index.php
@@ -112,19 +112,19 @@ color-tricks/
 ├── relation.php
 ├── styles.css
 └── README.md
+</pre>
 Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request. Contributions are welcome and appreciated!
+Please fork the repository and submit a pull request to contribute to this project. Contributions are welcome and appreciated!
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-markdown
-Copy code
+
 
 ### How to Use
 
 1. **Clone the Repository**:
-   - `git clone https://github.com/your-username/color-tricks.git`
+   - `git clone https://github.com/6a6ak/Colors.git`
 2. **Set Up the Database**:
    - Create a MySQL database and import the provided SQL schema.
 3. **Configure the Database Connection**:
@@ -134,10 +134,3 @@ Copy code
 5. **Install Dependencies**:
    - If using Composer, install the necessary dependencies.
 
-### Notes
-
-- Replace `your-username` in the clone URL with your actual GitHub username.
-- Ensure your local server setup meets the prerequisites.
-- Customize the database connection details in `relation.php`.
-
-This README provides clear instructions for setting up, using, and contributing to the `Color Tr
