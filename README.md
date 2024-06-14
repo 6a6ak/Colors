@@ -4,7 +4,7 @@ Color Tricks is a web application that allows users to manage their own color pa
 
 ![View ](view.PNG)
 
-<img src="view2.PNG" alt="Logo" width="200" >
+<img src="view2.PNG" alt="Logo" width="300" >
 
 
 ## Features
