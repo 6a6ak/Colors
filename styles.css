@@ -87,7 +87,7 @@ body {
 
 .color-row {
     display: flex;
-    flex-wrap: wrap;
+    /*flex-wrap: wrap;*/
     justify-content: center;
     width: 100%;
     margin-bottom: 20px;
@@ -162,7 +162,7 @@ body {
 
 button {
     display: block;
-    width: 100%;
+   
     padding: 10px;
     background-color: #333;
     color: #fff;
@@ -170,6 +170,7 @@ button {
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
+    font-weight: bold;
 }
 
 button:hover {
