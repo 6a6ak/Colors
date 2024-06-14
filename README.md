@@ -2,6 +2,9 @@
 
 Color Tricks is a web application that allows users to manage their own color palettes. Users can add, edit, view, and delete color packs, each containing up to 10 colors. The application also includes user authentication for secure access to user-specific color palettes.
 
+![View ](view.PNG)
+
+
 ## Features
 
 - **User Authentication**: Secure login and registration system.
